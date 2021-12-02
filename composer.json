@@ -10,15 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "illuminate/console": "^6.5",
-        "illuminate/support": "^6.5",
-        "illuminate/cache": "^6.5"
-    },
+    "require": {},
     "require-dev": {
-        "phpunit/phpunit": "^8.4",
+        "phpunit/phpunit": "dev-master",
         "mockery/mockery": "dev-master",
-        "illuminate/database": "^6.5",
         "sami/sami": "dev-master"
     },
     "autoload": {
